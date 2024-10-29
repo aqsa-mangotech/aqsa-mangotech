@@ -35,4 +35,5 @@ else:
         suggestion.click()
 
 time.sleep(5)
+time.sleep(5)
 driver.quit()
